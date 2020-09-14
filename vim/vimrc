@@ -1,0 +1,8 @@
+"  
+"	Andrei Shakuro vimrc
+"
+syntax on
+set showcmd
+set number!
+set ruler
+set mouse=a 

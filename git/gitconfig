@@ -1,0 +1,14 @@
+[user]
+	email = andrei.shakuro@emlid.com
+	name = Andrei Shakuro
+[core]
+	editor = vim
+[alias]
+	lsset = config --list --show-origin
+    	lg = log --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+    	unstage = reset HEAD
+    	st = status -sb
+    	undo = checkout --
+    	subupdate = submodule update --init --recursive
+ 
+
