@@ -9,5 +9,5 @@
     ~/.git: git/
     ~/.gitconfig: git/gitconfig
     ~/.gitignore: git/gitignore
-    ~/.profile: profile	
+    ~/.profile: profile
     ~/.bashrc: bash/bashrc   
