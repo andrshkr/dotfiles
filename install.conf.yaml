@@ -9,4 +9,4 @@
     ~/.git: git/
     ~/.gitconfig: git/gitconfig
     ~/.gitignore: git/gitignore
-   
+    ~/.bashrc: bash/bashrc   
